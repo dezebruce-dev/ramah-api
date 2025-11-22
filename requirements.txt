@@ -1,5 +1,0 @@
-# Railway.app / Render.com Deployment Config
-# Place this in root directory as requirements.txt
-
-flask==3.0.0
-flask-cors==4.0.0
